@@ -1,0 +1,1 @@
+Copy-Item D:\file3.txt -Destination D:\project1\ -recurse -force
